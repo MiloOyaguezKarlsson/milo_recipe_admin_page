@@ -7,6 +7,7 @@ import java.sql.SQLException;
 //klass för koppling till databasen
 public class ConnectionFactory {
     public static Connection getConnection() throws ClassNotFoundException, SQLException {
+        // ändra dessa beroende på om det är lokalteller på servern
         String url = "jdbc:mysql://localhost/recipe_db";
         String user = "root";
         String pass = "";

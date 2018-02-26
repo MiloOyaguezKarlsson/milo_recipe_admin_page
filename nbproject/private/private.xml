@@ -3,11 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/TE4/milo_recipe_admin_page/src/java/resources/UserResource.java</file>
-            <file>file:/C:/TE4/milo_recipe_admin_page/src/java/utilities/SessionUtils.java</file>
+            <file>file:/C:/TE4/milo_recipe_admin_page/src/java/beans/CommentBean.java</file>
             <file>file:/C:/TE4/milo_recipe_admin_page/web/index.xhtml</file>
-            <file>file:/C:/TE4/milo_recipe_admin_page/src/java/beans/LoginBean.java</file>
-            <file>file:/C:/TE4/milo_recipe_admin_page/src/java/utilities/AuthorizationFilter.java</file>
+            <file>file:/C:/TE4/milo_recipe_admin_page/src/java/beans/RecipeBean.java</file>
+            <file>file:/C:/TE4/milo_recipe_admin_page/test/beans/SetPwTest.java</file>
+            <file>file:/C:/TE4/milo_recipe_admin_page/src/java/utilities/ConnectionFactory.java</file>
+            <file>file:/C:/TE4/milo_recipe_admin_page/test/beans/UserDeleteTest.java</file>
+            <file>file:/C:/TE4/milo_recipe_admin_page/src/java/beans/UserBean.java</file>
             <file>file:/C:/TE4/milo_recipe_admin_page/web/admin.xhtml</file>
         </group>
     </open-files>
